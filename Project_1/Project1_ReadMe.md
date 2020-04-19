@@ -1,6 +1,14 @@
-[TOC]
-
 # Project 1: SAT & ACT Analysis
+
+Table of Content
+
+* [Problem Statement](#Problem-Statement)
+* [Executive Summary](#Executive-Summary)
+  * [Recommendation](#Recommendation)
+  * [Datasets](#Datasets)
+  * [Data Dictionary](#Data-Dictionary)
+* [Conclusions and Suggestions](#Conclusions-and-Suggestions)
+  * [Suggestions](#Suggestions)
 
 
 
