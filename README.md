@@ -14,7 +14,7 @@
 
 ## **Problem Statement**
 
-Both ACT and SAT scores are used for college admissions decisions and granting scholarships in United States. It seems that ACT is taking the lead in participation rates. We have to increase the participation rate of SAT. 
+Both ACT and SAT scores are used for college admissions decisions and granting scholarships in United States. It seems that ACT is taking the lead in participation rates.  We have to increase the participation rate of SAT. 
 
 As the new format for the SAT was released in March 2016, this project will examine the newly formatted SAT and ACT in terms of aggregate SAT and ACT scores and participation rate in 2017 and 2018 from each state of United States. 
 
@@ -22,20 +22,20 @@ As the new format for the SAT was released in March 2016, this project will exam
 
 ## **Executive Summary**
 
-We have identify the correlations or underlying patterns amongst the participation rate and scores of both tests systems by cleaning data, visualising the statistics number, like the mean, minimum and maximum rate of the participation, by using different types of charts.
+We have identify the correlations or underlying patterns amongst the participation rate and scores of both tests systems by cleaning data,  visualising the statistics number, like the mean, minimum and maximum rate of the participation,  by using different types of charts.
 
 We have 3 key findings:
-- Inverse correlation of participation rate and the total/composite score.When we consider a state to increase participation rate , we have to also monitor the total score. 
-- The higher ACT particiption , the lower SAT particiption. 
-- States in inland tends to dominated ACT and the coastal states are more likely to have high participation rate.
+- Inverse correlation of participation rate and the total/composite score. When we consider a state to increase participation rate, we have to also monitor the total score. 
+- The higher ACT particiption, the lower SAT particiption. 
+- States in midwest tends to dominated ACT and the coastal states are more likely to have high participation rate.
 
 
 
 ### Recommendation
 
-We would recommend to increase the participation rate of California. As California has low ACT participation rate, 31% in 2017 and 27% in 2018. On the other hand, the trend of SAT participation rate in the state is increasing from 53% to 80%. 
+We would recommend to increase the participation rate of California.  As California has low ACT participation rate, 31% in 2017 and 27% in 2018.  On the other hand, the trend of SAT participation rate in the state is increasing from 53% to 80%. 
 
-Though this is not in the lowest range, it is still have potential to attract more individuals to take the test due to the high population of the high school students. According to SAT annual report of California, the number of high school students is 431,009. 
+Though this is not in the lowest range,  it is still have potential to attract more individuals to take the test due to the high population of the high school students. According to SAT annual report of California, the number of high school students is 431,009. 
 
 On the contrast, Iowa has low participation rate of 2% in SAT. The number of high school students is 35,032.
 Moreover, California is a coastal state so it might be more likely to achieve a higher participation rate.
@@ -76,8 +76,8 @@ For the data of the average SAT and ACT scores by state and participation rates 
 
 ### Suggestions
 
-- Collaborate with the states' department of education. The ultimle goal is to convince the state governemtn accept SAT as mandatory test in all schools and sponsorship of exam or study fee. 
+- Collaborate with the states' department of education. The ultimle goal is to convince the state governemtn accepting  SAT as mandatory test in all schools and sponsorship of exam or study fee. 
 
 - Promote the utility of online SAT practice resoucese like SAT School Day and Khan Academy. 
 
-- To boarden the participant base, we can target on working adults in the community who are interested in taking the test and do not have the support of traditional schooling. Our online resources will be handy. 
+- Broaden the participant base, we can target on working adults in the community who are interested in taking the test and do not have the support of traditional schooling. Our online resources will be handy. 
