@@ -87,11 +87,11 @@ The resulting scores are:
 
 | Metrics          | Random Forest (Under + Oversample SMOTE) | XGBoost (Under + Oversample SMOTE) |
 | ---------------- | ---------------------------------------- | ---------------------------------- |
-| **roc_auc(val)** | 0.856                                    | 0.856                              |
-| **sensitivity**  | 0.657                                    | 0.657                              |
-| **precision**    | 0.217                                    | 0.217                              |
-| **F1**           | 0.326                                    | 0.326                              |
-| **roc_auc**      | 0.862                                    | 0.862                              |
+| **roc_auc(val)** | 0.856                                    | 0.846                              |
+| **sensitivity**  | 0.657                                    | 0.613                              |
+| **precision**    | 0.217                                    | 0.196                              |
+| **F1**           | 0.326                                    | 0.297                              |
+| **roc_auc**      | 0.862                                    | 0.855                              |
 
 With combination of Oversample and Undersample on the XGBoost classifier, 
 
